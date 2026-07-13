@@ -1,13 +1,11 @@
-Arrays & Hashing
+# Arrays & Hashing
 
-Problems solved from the Arrays & Hashing pattern.
+This folder contains my Python solutions for the Arrays & Hashing pattern.
 
-Problems
+## Problems Solved
 
-- Two Sum
-- Contains Duplicate
-- Valid Anagram
-- Intersection of Two Arrays
-- Find the Difference
-- Majority Element
-- Isomorphic Strings
+- [x] Two Sum
+- [x] Contains Duplicate
+
+---
+Progress: 2 problems completed.
